@@ -10,7 +10,7 @@ tmp=*a;
 
 int main(){
 int a,b;
-printf("inserisci a e b io faccio swap\n");
+printf("insert a and b I will swap them\n");
 printf("a:");
 scanf("%d",&a);
 printf("b:");
